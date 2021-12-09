@@ -1,2 +1,2 @@
-# zhangyuyou.github.io
+# Yuyou Zhang
 Repository for Yuyou's academic research website.
