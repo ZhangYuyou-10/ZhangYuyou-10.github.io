@@ -54,6 +54,11 @@ a {
   text-decoration: none;
 }
 
+t {
+  color:  #5499c7;
+  text-decoration: none;
+}
+
 a:hover {
   color: #069;
 }
@@ -70,7 +75,7 @@ a:hover small {
 }
 
 .wrapper {
-  width: 1160px;
+  width: 1050px;
   margin: 0 auto;
 }
 
