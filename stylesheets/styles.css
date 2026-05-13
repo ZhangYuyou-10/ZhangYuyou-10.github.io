@@ -55,7 +55,7 @@ a {
 }
 
 t {
-  color:  #5499c7;
+  color: #5499c7;
   text-decoration: none;
 }
 
@@ -298,4 +298,15 @@ screen and (max-width: 480px) {
     font-size: 12pt;
     color: #444;
   }
+}
+
+.company-logo {
+  width: 24px;
+  height: 18px;
+  object-fit: cover;
+  /* crops to fill the box */
+  object-position: center;
+  /* controls crop focus */
+  vertical-align: middle;
+  margin: 0 6px;
 }
